@@ -6,7 +6,7 @@ The functions were extracted into the bookmarklet to not have to load
 the two script files (jQuery and Typogr) when running it, and because
 we only need these specific goodies.
 
-Typogr is a smart fellow&mdash;content between tags like `code` and `pre` will not be mangled.
+Typogr is a smart fellow&mdash;it would certainly never mangle content within tags like `<code>` or `<pre>`.
 
 Usage
 -----
